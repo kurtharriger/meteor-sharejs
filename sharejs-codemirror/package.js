@@ -1,7 +1,7 @@
 Package.describe({
-  name: "mizzao:sharejs-codemirror",
+  name: "kurtharriger:sharejs-codemirror",
   summary: "ShareJS with the CodeMirror Editor",
-  version: "4.12.1",
+  version: "5.14.3",
   git: "https://github.com/mizzao/meteor-sharejs.git"
 });
 
